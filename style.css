@@ -7,7 +7,6 @@ body{
 .search-bar{
     border-radius: 3px;
     border-style: solid;
-    cursor:pointer;
     margin-top:05px;
     width:210px;
     margin-bottom: 5px;
@@ -32,6 +31,7 @@ body{
     padding-bottom: 7px;
     width: 200px;
     border-radius: 20px;
+    cursor: pointer;
 }
 .main-div{
     background-color: rgb(202, 243, 243);
