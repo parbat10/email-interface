@@ -1,0 +1,43 @@
+body{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.search-bar{
+    border-radius: 3px;
+    border-style: solid;
+    cursor:pointer;
+    margin-top:05px;
+    width:210px;
+    margin-bottom: 5px;
+}
+.email{
+    color: rgb(131, 128, 128);
+    font-size: 12px;
+    margin-bottom: 0px;
+    font-family: arial;
+    margin-top: 0px;
+}
+.text{
+    color: rgb(131, 128, 128);
+    font-family: Arial;
+    font-size:10px;
+}
+.agree-button{
+    background-color: rgb(161, 162, 215);
+    border:none;
+    color:white;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    width: 200px;
+    border-radius: 20px;
+}
+.main-div{
+    background-color: rgb(202, 243, 243);
+    height: 200px;
+    width: 240px;
+    border-radius: 16px;
+    box-shadow: inset;
+    margin-top: 200px;
+}
